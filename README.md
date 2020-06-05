@@ -1,3 +1,7 @@
+# Overview
+
+This is a c++ port of the following project.
+
 # Background Matting: The World is Your Green Screen
 ![alt text](https://homes.cs.washington.edu/~soumya91/paper_thumbnails/matting.png)
 
